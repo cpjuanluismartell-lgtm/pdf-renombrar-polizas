@@ -1,0 +1,5 @@
+{
+  "name": "PDF Renombrar Polizas",
+  "description": "An application to automatically rename PDF policy documents based on their content using AI, and download them as a ZIP file.",
+  "requestFramePermissions": []
+}
